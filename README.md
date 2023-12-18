@@ -1,0 +1,2 @@
+# BeautyParlour
+static website
